@@ -1,13 +1,13 @@
 {
-  "name": "AFK Bot",
+  "name": "BINOD",
   "bot-account": {
     "username": "Slobot00",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
+    "ip": "NOT_TOG.aternos.me:51306",
+    "port": 51306,
     "version": "",
     "try-creative": false
   },
