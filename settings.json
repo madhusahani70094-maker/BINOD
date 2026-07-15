@@ -1,9 +1,9 @@
 {
-  "name": "BINOD",
+  "name": "Afk Bot",
   "bot-account": {
     "username": "BINOD",
     "password": "",
-    "type": "Online"
+    "type": "Offline"
   },
   "server": {
     "ip": "NOT_TOG.aternos.me",
