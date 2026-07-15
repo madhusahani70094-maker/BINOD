@@ -1,12 +1,12 @@
 {
   "name": "BINOD",
   "bot-account": {
-    "username": "Slobot00",
+    "username": "BINOD",
     "password": "",
-    "type": "offline"
+    "type": "Online"
   },
   "server": {
-    "ip": "NOT_TOG.aternos.me:51306",
+    "ip": "NOT_TOG.aternos.me",
     "port": 51306,
     "version": "",
     "try-creative": false
